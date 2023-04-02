@@ -1,4 +1,4 @@
-//let isPhoneRequired = false
+let isPhoneRequired = false
 
 const phoneLabelSpan = document.querySelector('.phone-label-span')
 const phoneField = document.getElementById('phone')
@@ -19,7 +19,7 @@ document.querySelector('#phone-checkbox')
 document.querySelector('button[type="submit"]')
   .addEventListener('click', function(event) {
     event.preventDefault()
-    //const firstNameField = document.getElementById('firstName')
+    const firstNameField = document.getElementById('firstName')
     const lastNameField = document.getElementById('lastName')
     const emailField = document.getElementById('email')
     const textareaField = document.getElementById('open-text-area')
