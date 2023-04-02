@@ -50,4 +50,4 @@ Durante o curso de testes automatizados com Cypress (básico) da Escola TAT, te 
 
 Espero que esteja tão ansioso(a) para começar como estou para te guiar ao longo do caminho! 🧑‍🏫
 
-Vá para a [aula 0](./0.md) para fazer o setup do projeto de testes.
+Vá para a [aula 0](./00.md) para fazer o setup do projeto de testes.
